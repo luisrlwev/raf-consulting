@@ -53,23 +53,26 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 col-sm-12 col-12">
-                    <div class="section-title">
+                    <div class="section-title text-left" style="font-size: 18px !important;">
                         <h2>AVISO DE PRIVACIDAD COMPLETO</h2>
                         <p class="text-left">
-RAFCO SERVICES, S.A. DE C.V., cuyo domicilio se encuentra en Blvd. Aldolfo Ruíz
-Cortínes No. 4302 Of. 110, Col. Jardines del Pedregal, Del. Coyoacán, C.P. 04500,
-Cuidad de México., tiene la responsabilidad de recabar sus datos personales,
-resguardarlos y manejarlos bajo completa confidencialidad, con las siguientes finalidades:
-<br><br>
-<strong>1. Finalidades del tratamiento:</strong>
-<br><br>
-a. Finalidad principal:
-<br><br>
-Sus datos personales, se tratarán con la finalidad principal de proveer servicios
-Regulatorios, de Farmacovigilancia y/o Tecnovigilancia cumpliendo con la Normatividad
-Oficial de Medicamentos y Dispositivos Médicos; en especial:
-<br><br>
-<ul>
+                            RAFCO SERVICES, S.A. DE C.V., cuyo domicilio se encuentra en Blvd. Aldolfo Ruíz
+                            Cortínes No. 4302 Of. 110, Col. Jardines del Pedregal, Del. Coyoacán, C.P. 04500,
+                            Cuidad de México., tiene la responsabilidad de recabar sus datos personales,
+                            resguardarlos y manejarlos bajo completa confidencialidad, con las siguientes finalidades:
+                            <br><br>
+                        </p>
+                        <p class="text-left" style="font-size: 18px !important;">
+                            <strong>1. Finalidades del tratamiento:</strong>
+                            <br><br>
+                            a. Finalidad principal:
+                            <br><br>
+                            Sus datos personales, se tratarán con la finalidad principal de proveer servicios
+                            Regulatorios, de Farmacovigilancia y/o Tecnovigilancia cumpliendo con la Normatividad
+                            Oficial de Medicamentos y Dispositivos Médicos; en especial:
+                            <br><br>
+                        </p>
+<ul class="text-left" style="font-size: 18px;">
     <li>Datos personales que se requieren para solicitudes ante COFEPRIS o para dar de alta al cliente en nuestro sistema de facturación, asegurándonos que cubren los requisitos esperados.</li>
     <li>Atención de quejas: RAFCO SERVICES, S.A de C.V. podrá contactarle y dar seguimiento al desarrollo de proceso de quejas que usted inicie sobre alguno de los productos que manejamos de forma directa, o de nuestros clientes.</li>
     <li>Atención de eventos adversos (farmacovigilancia y/o tecnovigilancia): En caso de que se suscite algún evento que afecte a su salud, de algún producto de nuestros clientes y usted lo reporte con nosotros, se elaborará un registro con sus datos para atender, investigar y dar seguimiento al mismo.</li>
@@ -165,6 +168,7 @@ farmacovigilancia@rafconsulting.net o visitar nuestra página de Internet
 www.rafconsulting.net
 Es importante mencionar que la solicitud para el ejercicio de los derechos ARCO deberá
 contener y acompañar lo siguiente:
+<br><br>
 <ol>
     <li>El nombre de la persona titular y su domicilio o cualquier otro medio para recibir notificaciones;</li>
     <li>Los documentos que acrediten la identidad de la persona titular o, en su caso, la personalidad e identidad de su representante;</li>
