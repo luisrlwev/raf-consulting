@@ -89,6 +89,7 @@
                                     <li class="pb-2">Remedios herbolarios</li>
                                 </ul>
                                 <h5 class="pb-5">Presentación en Comité de Nuevas Moléculas</h5>
+                                <h5 class="pb-5">Servicios de representación legal para medicamentos fabricados en el extranjero con GMPs de origen.</h5>
                                 <h5 class="pb-5">Prórrogas de registros y modificaciones:</h5>
                                 <ul class="bullet-list">
                                     <li class="pb-2">Modificaciones técnicas o administrativas</li>
@@ -97,6 +98,7 @@
                                 </ul>
                                 <h5 class="pb-5">Elaboración y/o adaptación de información para prescribir (IPP)</h5>
                                 <h5 class="pb-5">Materiales publicitarios</h5>
+                                <h5 class="pb-5">Importaciones y exportaciones</h5>
                                 <h5 class="pb-5">Requerimientos de farmacovigilancia <a href="servicios.php#farmaco"><span class="btn-moreinfo">Ver más</span></a></h5>
                             </div>
                         </div>

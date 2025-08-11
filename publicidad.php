@@ -78,9 +78,8 @@
                             </div>
                             <div class="content">
                                 <h4 class="title">Publicidad</h4>
-                                <p>
-                                    Nuestra ventaja competitiva es el completo entendimiento de las necesidades de las áreas comerciales. Trabajamos en equipo para ayudarle a obtener lo mejor de su campaña dentro del marco regulatorio. Tenemos amplia experiencia en la aplicación del Reglamento de publicidad y hemos trabajado con agencias de publicidad, promociones y compañías multinacionales de consumo, dando servicios como: consultoría, gestoría, cursos de capacitación y estrategia regulatoria de campañas publicitarias, promociones y su implementación. 
-                                </p>
+                                <p class="pb-2">Nuestra ventaja competitiva es la experiencia.</p>
+                                <p>Trabajamos en equipo para ayudarle a obtener lo mejor de su campaña dentro del marco regulatorio. Tenemos amplia experiencia en la aplicación del Reglamento de publicidad y hemos trabajado con agencias de publicidad, agencias de promociones y compañías locales o multinacionales de consumo, dando servicios como: consultoría, gestoría, cursos de capacitación y estrategia regulatoria de campañas publicitarias, promociones y su implementación.</p>
                                 <h5 class="pb-5">Consultoría</h5>
                                 <h5 class="pb-5">Cursos de entrenamiento</h5>
                                 <h5 class="pb-5">Gestión de permisos y avisos publicitarios para:</h5>

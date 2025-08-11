@@ -92,7 +92,7 @@
                             <div class="content">
                                 <h4 class="title">Establecimientos</h4>
                                 <ul>
-                                    <li><h5 class="pb-5">Consultoría en requisitos de cumplimiento de establecimientos en México para importar y distribuir medicamentos y dispositivos médicos</h5></li>
+                                    <li><h5 class="pb-5">Consultoría en cumplimiento de establecimientos en México para almacenar, importar y distribuir medicamentos y dispositivos médicos.</h5></li>
                                     <li><h5 class="pb-5">Licencias sanitarias</h5></li>
                                     <li><h5 class="pb-5">Certificados de GMPs <span style="font-weight: 700;font-family: 'Poppins', sans-serif;">(Buenas prácticas de manufactura)</span></h5></li>
                                     <li><h5 class="pb-5">Reconocimiento de GMPs de otros países</h5></li>

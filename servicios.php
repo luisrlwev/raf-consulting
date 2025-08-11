@@ -86,15 +86,13 @@
             <div class="col-12">
                 <h5 class="pb-5">Servicios de Consultoría:</h5>
                 <ul class="bullet-list pl-5">
-                    <li class="pb-2">Estrategia e inteligencia regulatoria</li>
-                    <li class="pb-2">Consultoría desde el Start-Up de la empresa en México o consultoría específica para sus productos</li>
-                    <li class="pb-2">Clasificación de productos límite </li>
-                    <li class="pb-2">Consultoría regulatoria durante las diferentes fases de desarrollo de sus productos</li>
-                    <li class="pb-2">Requerimientos de establecimientos (almacenes, instalaciones de fabricación) para poder hospedar o ser titulares de registros, así como ser capaces de importar, distribuir y comercializar diversos insumos de salud en México</li>
-                    <li class="pb-2">Definición de conceptos de producto</li>
+                    <li class="pb-2">Consultoría, estrategia e inteligencia regulatoria</li>
+                    <li class="pb-2">+Consultoría desde el Start-Up de la empresa en México hasta la comercialización y consultoría específica para sus productos durante las diferentes fases de desarrollo de sus productos</li>
+                    <li class="pb-2">Clasificación de productos límite</li>
+                    <li class="pb-2">Soporte post-comercialización</li>
                     <li class="pb-2">Switches de Rx a OTC</li>
                     <li class="pb-2">Auditoría regulatoria</li>
-                    <li class="pb-2">Revisión de campañas publicitarias (empresas, medicamentos, vinos y licores, servicios de salud, etc.)</li>
+                    <li class="pb-2">Revisión de campañas publicitarias (empresas, medicamentos, vinos y licores, servicios de salud, etc.), definición de conceptos de productos.</li>
                 </ul>
 
                 <h5 class="pb-5">Registros de insumos para la salud (Medicamentos y dispositivos médicos):</h5>
@@ -106,7 +104,6 @@
 
                 <h5 class="pb-5">Tenemos experiencia en todo tipo de insumos para la salud (medicamentos y dispositivos médicos) y otros productos relacionados como son: suplementos alimenticios, cosméticos, alimentos, podemos realizar notificaciones o registros de productos por cualquier vía:</h5>
                 <ul class="bullet-list  pl-5">
-                    <li class="pb-2">Terceros autorizados en verificación sanitaria </li>
                     <li class="pb-2">Procedimientos de equivalencia con registros de otros países</li>
                     <li class="pb-5">Vía tradicional directamente a Cofepris</li>
                 </ul>

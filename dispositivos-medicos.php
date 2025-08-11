@@ -81,7 +81,8 @@
                                 <h5 class="pb-5">Consultoría regulatoria en:</h5>
                                 <ul class="bullet-list">
                                     <li class="pb-2">Clasificación de productos</li>
-                                    <li class="pb-2">Vía de registro más adecuada, de acuerdo con sus necesidades, incluyendo acuerdos de equivalencia a registros en otros países o terceros autorizados en verificación sanitaria</li>
+                                    <li class="pb-2">Agrupación de productos</li>
+                                    <li class="pb-2">Vía de registro más adecuada, incluyendo acuerdos de equivalencia con registros en otros países.</li>
                                 </ul>
                                 <h5 class="pb-5">Amplia experiencia en obtener registros de Clases IA, I, II y III:</h5>
                                 <ul class="bullet-list">
@@ -107,7 +108,8 @@
                                     </li>
                                     <li class="pb-2">Materiales publicitarios</li>
                                     <li class="pb-2">Cumplimiento de norma de tecnovigilancia NOM-240 <a href="servicios.php#tecno"><span class="btn-moreinfo">Ver más</span></a></li>
-                                </ul>    
+                                    <li class="pb-2">Importaciones y exportaciones</li>
+                                </ul>
                                 <h5 class="pb-5" style="line-height: 31px;">Servicios de titular de registros de dispositivos médicos<br><a href="titular-registro.php"><span class="btn-moreinfo" style="margin-left:0px;">Ver más</span></a></h5>
                             </div>
                         </div>
