@@ -8,11 +8,7 @@
                                 <img src="img/logo-footer.png" alt="">
                             </div>
                             <p class="text">
-                                Expertos en consultoría e inteligencia
-                                regulatoria y farmacovigilancia en
-                                Mexico. Especialistas en aprobaciones
-                                Medicamentos, Dispositivos Médicos y
-                                otros productos y servicios en Cofepris.
+                                Expertos en registros en Cofepris e integración de dossiers. Consultoría e inteligencia regulatoria y farmacovigilancia en Mexico. Todo tipo de Medicamentos, Dispositivos Médicos y otros productos y servicios. Titulares de registros de dispositivos médicos y representación legal de medicamentos en México.
                             </p>
                         </div>
                     </div>
@@ -56,7 +52,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-sm-12 col-12">
                         <div class="fba-left">
-                            <p><span style="color:#0fb8ce;">RAF consulting</span> © 2023. Todos los derechos reservados.</p>
+                            <p><span style="color:#0fb8ce;">RAF consulting</span> © 2025. Todos los derechos reservados.</p>
                         </div>
                     </div>
                     <div class="col-lg-6 col-sm-12 col-12">

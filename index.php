@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<html lang="en">
+<html lang="mx">
 
 
 
@@ -285,7 +285,7 @@
 
                             <div class="col-lg-12 col-md-12 col-sm-12 col-12">
 
-                                <p>Servicios en asuntos regulatorios: Expertos en consultor&#237;a e inteligencia regulatoria y farmacovigilancia en M&#233;xico. Especialistas en aprobaciones de medicamentos, dispositivos m&#233;dicos y otros productos y servicios en Cofepris. Titulares de registro para dispositivos m&#233;dicos.
+                                <p>Desde el 2001, somos una empresa con gran experiencia y profesionalismo , en todos los servicios que ofrecemos, estamos dedicados a apoyar la industria de salud y de cualquier otra área que requiera servicios regulatorios y farmacovigilancia.
 
                                     <br><br>
 
@@ -339,7 +339,7 @@
 
                         <h2>Nuestros Servicios</h2>
 
-                        <p>Desde el 2001, somos una empresa con gran experiencia y profesionalismo, en todos los servicios que ofrecemos, estamos dedicados a apoyar la industria de salud y de cualquier otra &#225;rea que requiera servicios regulatorios y farmacovigilancia.</p>
+                        <p>Servicios en asuntos regulatorios: Expertos en consultoría e inteligencia regulatoria y farmacovigilancia en México. Especialistas en aprobaciones de medicamentos, dispositivos médicos y otros productos y servicios en Cofepris. Titulares de registro para dispositivos médicos y representación Legal para medicamentos con GMPs en el extranjero.</p>
 
                     </div>
 
@@ -361,7 +361,7 @@
 
                         <h2 class="title">Regulaci&#243;n Sanitaria</h2>
 
-                        <p class="text">Tenemos experiencia en todo tipo de insumos para la salud (medicamentos y dispositivos m&#233;dicos) y otros productos relacionados como son, suplementos alimenticios, cos&#233;ticos, alimentos, podemos realizar notificaciones o registros </p>
+                        <p class="text">Proporcionamos servicios Key-on-hand con flexibilidad absoluta para el registro de todo tipo de insumos para la salud (medicamentos y dispositivos médicos) y otros productos y servicios relacionados como son: suplementos alimenticios, cosméticos, servicios de salud y productos veterinarios.</p>
 
                         <div class="order-more">
 
@@ -385,7 +385,7 @@
 
                         <h2 class="title">Farmacovigilancia</h2>
 
-                        <p class="text">Proporcionamos un servicio integral y flexible en todo lo relativo al cumplimiento de la NOM-220-SSA1-2015, Instalaci&#243;n y operaci&#243;n de la farmacovigilancia, o la versi&#243;n que se encuentre vigente. </p>
+                        <p class="text">Proporcionamos un servicio integral y flexible en todo lo relativo al cumplimiento de la NOM-220, instalación y operación de farmacovigilancia, en la versión vigente. Contamos con licencias de MedDRA y WhoDrug para el reporte de reacciones adversas, somos una Unidad de Farmacovilancia autorizada por Cofepris y contamos con amplia experiencia.</p>
 
                         <div class="order-more">
 
@@ -409,7 +409,7 @@
 
                         <h2 class="title">Tecnovigilancia</h2>
 
-                        <p class="text">Al ser titulares de registros, Rafconsulting es una unidad de tecnovigilancia autorizada por Cofepris. Podemos encargarnos de todo por ustedes, incluyendo ser su unidad y responsable de tecnovigilancia.</p>
+                        <p class="text">Al ser titulares de registros, Rafconsulting es una unidad de tecnovigilancia autorizada por Cofepris. Podemos encargarnos de todo lo relativo al cumplimiento de la NOM-240 por ustedes, incluyendo ser su unidad y responsable de tecnovigilancia.</p>
 
                         <div class="order-more">
 
@@ -459,7 +459,7 @@
 
                             <p class="text">&nbsp;</p>
 
-                            <h2 class="counter counter-up" data-counterup-time="1500" data-counterup-delay="30">20</h2>
+                            <h2 class="counter counter-up" data-counterup-time="1500" data-counterup-delay="30">+23</h2>
 
                             <p class="text">a&#241;os en el negocio</p>
 
@@ -698,9 +698,9 @@
 
                                     <h4 class="title">Atenci&#243;n Telef&#243;nica</h4>
 
-                                    <a class="desc" href="tel:+5255-5683-5496">Tel: +5255-5683-5496</a>
+                                    <a class="desc" href="tel:+5255-5683-5496">Tel: +52 55-5683-5496</a>
 
-                                    <a class="desc" href="tel:+5255-5920-6339">Tel: +5255-5920-6339</a>
+                                    <a class="desc" href="tel:+5255-5920-6339">Tel: +52 55-5920-6339</a>
 
                                 </div>
 
@@ -747,6 +747,7 @@
                     <div class="section-title">
 
                         <h2>Cont&#225;ctanos</h2>
+                        <p>La información más importante en asuntos.</p>
 
                     </div>
 

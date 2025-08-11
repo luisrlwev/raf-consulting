@@ -306,7 +306,7 @@ $(".btn-movil-menu").click(function () {
             navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
             nav: false,
             items: 3,
-            smartSpeed: 6000,
+            smartSpeed: 2000,
             dots: true,
             autoplay: false,
             autoplayTimeout: 1000,

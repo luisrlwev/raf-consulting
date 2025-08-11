@@ -86,26 +86,26 @@
                             <div class="tab-pane fade show active" id="nav-mission" role="tabpanel" aria-labelledby="nav-mission-tab">
                                 <div class="about-tab-box">
                                     <p>
-                                    Fundada en el año 2001, Rafconsulting® es un equipo de profesionistas con amplia experiencia en asuntos regulatorios, especializado en estrategia, inteligencia regulatoria y en el cumplimiento regulatorio de insumos para la salud (medicamentos y dispositivos médicos) incluyendo todo lo relacionado con registros y farmacovigilancia.
+                                    Fundada en el año 2001, Rafconsulting® es un equipo de profesionistas con amplia experiencia en asuntos regulatorios, especializado en estrategia, inteligencia regulatoria y en el cumplimiento regulatorio de insumos para la salud (medicamentos y dispositivos médicos) realizamos todas las actividades para la correcta aprobación y cumplimiento de registros y farmacovigilancia.
                                     <br><br>
-                                    Nuestros objetivos son el cumplimiento regulatorio y la satisfacción de quienes confían en nosotros. Nuestros clientes son empresas nacionales y extranjeras que quieren comercializar sus productos en México.
+                                    Nuestros objetivos son el cumplimiento regulatorio y la satisfacción de quienes confían en nosotros. Nuestros clientes son empresas nacionales y extranjeras que comercializan o pretenden comercializarr sus productos en México.
                                     <br><br>
-                                    Nuestra ventaja competitiva es un completo entendimiento de las necesidades de las áreas comerciales y el dominio de la regulación. Nuestro equipo está entrenado, capacitado y actualizado para poder afrontar los retos actuales y superar las expectativas de nuestros clientes, en tiempo y forma, haciendo sencillo para ellos lo más complejo.
+                                    Nuestra ventaja competitiva es el completo entendimiento de las necesidades de las áreas comerciales y el dominio de la regulación. Nuestro equipo está entrenado, capacitado y actualizado para poder afrontar los retos actuales y superar las expectativas de nuestros clientes, en tiempo y forma, haciendo sencillo para ellos lo más complejo.
                                     <br><br>
-                                    Como proporcionamos un servicio integral, también podemos ayudarle con las traducciones técnicas y certificadas de los documentos que se requieran, así como copias certificadas, contratos de cesiones de derechos, etc. para que no tenga que preocuparse por nada, incluyendo el sometimiento y seguimiento en Cofepris hasta obtener las resoluciones. 
+                                    Como proporcionamos un servicio integral y Key-on-hand, también podemos ayudarle con las traducciones técnicas y certificadas de los documentos que se requieran, así como copias certificadas, contratos de cesiones de derechos, etc. para que no tenga que preocuparse por nada, incluyendo el sometimiento y seguimiento en Cofepris hasta obtener las resoluciones.
                                     </p>
                                 </div>
                             </div>
                             <div class="tab-pane fade" id="nav-vision" role="tabpanel" aria-labelledby="nav-vision-tab">
                                 <div class="about-tab-box">
                                     <p>
-                                        Desde el 2001, somos una empresa con gran experiencia y profesionalismo, en todos los servicios que ofrecemos, estamos dedicados a apoyar la industria de salud y de cualquier otra área que requiera servicios regulatorios y farmacovigilancia. 
+                                        Desde el 2001, somos una empresa con gran experiencia y profesionalismo, en todos los servicios que ofrecemos, dedicados a apoyar la industria de salud y de cualquier otra área que requiera servicios regulatorios y farmacovigilancia.
                                         <br><br>
-                                        Tenemos un amplio entendimiento de las regulaciones y procedimientos regulatorios, lo que nos permite dar la solución más adecuada minimizando costos, optimizando tiempos y logrando la autorización (registro sanitario) de un amplio rango de productos. 
+                                        Tenemos amplia experiencia en la aplicación de las regulaciones y procedimientos regulatorios, lo que nos permite dar la solución más adecuada minimizando costos, optimizando tiempos y logrando la autorización (registro sanitario) de un amplio rango de productos.
                                         <br><br>
-                                        Contamos también con gran experiencia en explicarle a los fabricantes (proveedores de información) el tipo de documentos que se requieren para el registro en fondo y forma, así como los requisitos que Cofepris espera para autorizar su producto. Tenemos un vasto conocimiento sobre las regulaciones en otros países, por lo que seguramente nos entenderemos con sus proveedores de dossiers. 
+                                        Contamos también con gran experiencia en explicarle a los fabricantes (proveedores de información) el tipo de documentos que se requieren para el registro en fondo y forma, así como los requisitos y criterios que Cofepris espera para autorizar su producto. También tenemos amplio conocimiento en regulaciones en otros países, por lo que seguramente nos entenderemos con sus proveedores de dossiers.
                                         <br><br>
-                                        Nos especializamos en asuntos regulatorios de medicamentos y dispositivos médicos de fabricación extranjera. Colaboramos con empresas de casi todos los continentes: Europa, América y Asia. 
+                                        Nos especializamos en asuntos regulatorios de medicamentos y dispositivos médicos de fabricación extranjera. Colaboramos con empresas de casi todos los continentes: Europa, América y Asia.
                                         <br><br>
                                         Podemos ayudarles con un único proyecto o ser su departamento de Asuntos regulatorios y resolver todo por ustedes.
                                     </p>
@@ -132,11 +132,11 @@
                     <div class="col-lg-6 col-12">
                         <div class="video-details">
                             <p class="details">
-                            Todos los miembros de nuestro equipo son profesionistas en el área de la salud, con amplia experiencia en diferentes áreas de asuntos regulatorios y/o farmacovigilancia.
+                            Todos los miembros de nuestro equipo son profesionistas en el área de la salud, con amplia experiencia en diferentes áreas de asuntos regulatorios y en vigilancia postcomercialización.
                             <br><br>
                             Nuestro equipo es bilingüe (Inglés y Español).
                             <br><br>
-                            La suma de experiencia en asuntos regulatorios de todo el equipo es de más de 40 años, en los cuales hemos logrado una gran cantidad de registros sanitarios y autorizaciones 
+                            La suma de experiencia en asuntos regulatorios de todo el equipo es de más de 50 años, en los cuales hemos logrado una gran cantidad de registros sanitarios y autorizaciones 
                             <br><br>
                             Tenemos un programa de capacitación continua que nos permite estar a la vanguardia y un sistema de calidad que da consistencia a nuestros servicios.
                             </p>
@@ -169,6 +169,9 @@
                             <div class="content">
                                 <div class="csb-single">
                                     <p class="info">Completo entendimiento de las necesidades de las áreas comerciales.</p>
+                                </div>
+                                <div class="csb-single">
+                                    <p class="info">Dominio de la regulación y actualización constante.</p>
                                 </div>
                                 <div class="csb-single">
                                     <p class="info">Soluciones integrales, flexibles, personalizadas, de alta calidad y tiempo.</p>
@@ -212,13 +215,10 @@
                         <div class="col-lg-6 col-md-6 col-sm-12 col-12">
                             <div class="content">
                                 <div class="csb-single">
-                                    <p class="info">Tenemos servidores propios para el almacenamiento y protección de la información, respaldados por tecnología de punta y un alto nivel de seguridad de información.</p>
-                                </div>
-                                <div class="csb-single">
                                     <p class="info">Contamos con una amplia red de contactos y socios comerciales, para proporcionar servicios integrales y poder resolver los requerimientos de nuestros clientes.</p>
                                 </div>
                                 <div class="csb-single">
-                                    <p class="info">Comunicación cercana y constante con las Autoridades Regulatorias (Cofepris), Colegios, Cámaras y Asociaciones.</p>
+                                    <p class="info">Comunicación cercana y constante con las Autoridades Regulatorias (Cofepris), participamos activamente en Colegios, Cámaras y Asociaciones.</p>
                                 </div>
                             </div>
                         </div>
