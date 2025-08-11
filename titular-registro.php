@@ -93,16 +93,31 @@
                                 <h4 class="title pb-5" syle="line-height: 33px;">Titular de registro de dispositivos médicos<br>(Hospedaje de registros)</h4>
                                 <h5 class="pb-5">¿Por qué necesita uno?</h5>
                                 <p>
-                                    Cofepris solamente otorga registros a empresas establecidas legalmente en México que tengan la infraestructura necesaria para enfrentar las responsabilidades regulatorias.
+                                    Cofepris solamente otorga registros a empresas establecidas legalmente en México y que tengan la infraestructura necesaria para afrontar las responsabilidades regulatorias.
                                     <br><br>
                                     Si su empresa no tiene oficinas en México, debe nombrar un Titular de registros. Esta empresa es responsable de obtener y mantener sus registros para que sus productos puedan importarse y comercializarse en México. El Titular es el responsable ante Cofepris y es visto ante ellos como el “dueño” del registro.
                                     <br><br>
                                     Tradicionalmente se ha utilizado al distribuidor como titular de registros, sin embargo, este es el que mantiene control sobre el registro del producto y sobre quién puede distribuirlo; sin embargo, si llegaran a existir desacuerdos comerciales o si el fabricante deseara recuperar el registro, es imposible hacerlo sin el consentimiento del distribuidor, lo cual en la mayoría de los casos lleva a la pérdida de los registros. 
                                 </p>
-                                <h5 class="pb-5">¿Porqué nosotros?</h5>
+                                <h5 class="pb-5">¿Por qué nosotros?</h5>
                                 <p>
-                                    Rafconsulting® al ser titular de sus registros, le ofrece completo control sobre sus productos, que modelos incluir y a quien nombrar como importador y/o distribuidor de sus dispositivos médicos, ya que cumplimos con todos los requisitos que exige Cofepris, con la garantía de ser especializados en regulación y no distribuimos ni comercializamos productos, por lo que no existe ningún conflicto de interés. Nuestra especialidad es: cuidar sus registros, mientras sus distribuidores importan directamente y tienen completa independencia comercial, que es lo que mejor saben hacer. 
+                                    Rafconsulting® al ser un titular independiente de sus registros, le ofrece completo control sobre sus productos, que modelos incluir y a quien nombrar como importador y/o distribuidor de sus dispositivos médicos, ya que cumplimos con todos los requisitos que exige Cofepris, con la garantía de ser especializados en regulación y no distribuimos ni comercializamos ningún producto, por lo que no existe conflicto de intereses.Nuestra especialidad es: cuidar sus registros, mientras sus distribuidores importan directamente y tienen completa independencia comercial, que es lo que mejor saben hacer.
                                 </p>
+                                <h5 class="pb-5">Servicios de representación legal para medicamentos fabricados en el extranjero con GMPs de origen. (Ver mas)</h5>
+                                <p>Para que un fabricante sea titular de sus registros en México, requiere contar con un Certificado de Buenas Prácticas de Manufactura emitido por un Ministerio de Salud reconocido por COFEPRIS.</p>
+                                <p>Y además requiere un representante legal en México que sea el responsable regulatorio de sus productos durante su comercialización en el país, que requiere contar con la siguiente infraestructura:</p>
+                                <ul>
+                                    <li>Empresa establecida en México</li>
+                                    <li>Almacen de medicamentos operativo con sistema de calidad de acuerdo a la regulación mexicana y notificado en COFEPRIS, con la temperatura de almacenamiento del producto a registrar/comercializar</li>
+                                    <li>Responsable sanitario dado de alta en COFEPRIS</li>
+                                    <li>Unidad de Farmacovigilancia con licencias WhoDrug y MedDRA</li>
+                                    <li>Laboratorio analítico de control de calidad</li>
+                                    <li>Capacidades de importación y logística</li>
+                                </ul>
+                                <p>Es importante saber que el representante legal someterá sus solicitudes de registro, así como proporcionará el soporte postcomercializacion y será el único autorizado por Cofepris para importar, liberar analíticamente sus productos en México y notificar cualquier evento adverso según las normas correspondientes, para poder renovar los registros cada 5 años.</p>
+                                <p>En Rafconsulting desde el 2022 contamos con este servicio para medicamentos fracciones IV-V que requieran temperatura de almacenamiento ambiente, y podemos ayudarlos también con otro tipo de medicamentos refrigerados con almacenes tercerizados.</p>
+                                <p>Este esquema, le permite al fabricante ahorrar en costos al no tener que mantener toda esta infraestructura desde el sometimiento del registro, hasta la autorización y durante todo el tiempo de comercialización de los productos, y deja en manos de expertos la responsabilidad regulatoria, para enfocarse en la comercialización, una vez autorizados sus productos.</p>
+                                <p>En Rafconsulting no comercializamos ningún producto, de acuerdo al posicionamiento institucional</p>
                             </div>
                         </div>
                     </div>
