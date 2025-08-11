@@ -103,7 +103,7 @@
                                 <p>
                                     Rafconsulting® al ser un titular independiente de sus registros, le ofrece completo control sobre sus productos, que modelos incluir y a quien nombrar como importador y/o distribuidor de sus dispositivos médicos, ya que cumplimos con todos los requisitos que exige Cofepris, con la garantía de ser especializados en regulación y no distribuimos ni comercializamos ningún producto, por lo que no existe conflicto de intereses.Nuestra especialidad es: cuidar sus registros, mientras sus distribuidores importan directamente y tienen completa independencia comercial, que es lo que mejor saben hacer.
                                 </p>
-                                <h5 class="pb-5">Servicios de representación legal para medicamentos fabricados en el extranjero con GMPs de origen. (Ver mas)</h5>
+                                <h5 class="pb-5">Servicios de representación legal para medicamentos fabricados en el extranjero con GMPs de origen</h5>
                                 <p>Para que un fabricante sea titular de sus registros en México, requiere contar con un Certificado de Buenas Prácticas de Manufactura emitido por un Ministerio de Salud reconocido por COFEPRIS.</p>
                                 <p>Y además requiere un representante legal en México que sea el responsable regulatorio de sus productos durante su comercialización en el país, que requiere contar con la siguiente infraestructura:</p>
                                 <ul>
@@ -117,7 +117,7 @@
                                 <p>Es importante saber que el representante legal someterá sus solicitudes de registro, así como proporcionará el soporte postcomercializacion y será el único autorizado por Cofepris para importar, liberar analíticamente sus productos en México y notificar cualquier evento adverso según las normas correspondientes, para poder renovar los registros cada 5 años.</p>
                                 <p>En Rafconsulting desde el 2022 contamos con este servicio para medicamentos fracciones IV-V que requieran temperatura de almacenamiento ambiente, y podemos ayudarlos también con otro tipo de medicamentos refrigerados con almacenes tercerizados.</p>
                                 <p>Este esquema, le permite al fabricante ahorrar en costos al no tener que mantener toda esta infraestructura desde el sometimiento del registro, hasta la autorización y durante todo el tiempo de comercialización de los productos, y deja en manos de expertos la responsabilidad regulatoria, para enfocarse en la comercialización, una vez autorizados sus productos.</p>
-                                <p>En Rafconsulting no comercializamos ningún producto, de acuerdo al posicionamiento institucional</p>
+                                <p>En Rafconsulting no comercializamos ningún producto, de acuerdo al posicionamiento institucional.</p>
                             </div>
                         </div>
                     </div>

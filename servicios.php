@@ -194,11 +194,13 @@
             <div class="row">
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
                     <p class="pb-5">
-                    Proporcionamos un servicio integral y flexible en todo lo relativo al cumplimiento de la NOM-220-SSA1-2016, Instalación y operación de la farmacovigilancia, o la versión y/o modificación que se encuentre vigente. 
+                        Proporcionamos un servicio integral y flexible en todo lo relativo al cumplimiento de la NOM-220-SSA1-2016, Instalación y operación de la farmacovigilancia, o la versión y/o modificación que se encuentre vigente. 
                         <br><br>
                         Nuestra promesa es adaptarnos a sus necesidades particulares, políticas y requisitos de la empresa a un costo competitivo. Nuestro enfoque es el cumplimiento regulatorio con altos estándares de calidad, como en todos nuestros servicios.
                         <br><br>
                         Contamos con un equipo de profesionistas altamente capacitados y con sólida experiencia en el ramo y médico de soporte cuando se requiera.
+                        <br><br>
+                        Contamos con licencias propias de MedDRA y WhoDrug para los reportes de reacciones adversas y la experiencia para utilizarlos.
                     </p>
                 </div>
             </div>
@@ -215,11 +217,11 @@
                                 <div id="collapseOne" class="collapse  show" aria-labelledby="headingOne" data-parent="#accordion" style="">
                                     <div class="card-body">
                                         <ul class="plus-list pt-5">
-                                            <li class="pb-3">Podemos actuar como su departamento de farmacovigilancia, incluyendo: alta de la unidad de Farmacovigilancia en CEMAR (Área de Cofepris que regula la farmacovigilancia), nombramiento de un responsable de farmacovigilancia</li>
-                                            <li class="pb-3">Desarrollo y/o actualización de manual de procedimientos normalizados de operación (PNOs)</li>
-                                            <li class="pb-3">Operación de la unidad de farmacovigilancia incluyendo recepción, investigación, mantenimiento de base de datos y reporte de SRAMS (Sospecha de reacciones adversas de medicamentos) a CEMAR</li>
-                                            <li class="pb-3">Programación calendarizada  de actividades de farmacovigilancia por registro contratado, como elaboración de Reportes periódicos de seguridad (RPS), reportes de seguridad en México, fichas técnicas e informes de farmacovigilancia para tenerlas a tiempo para las renovaciones de sus registros.</li>
-                                            <li class="pb-3">Capacitación para su personal en recepción e identificación de SRAMS.</li>
+                                            <li class="pb-3">Podemos actuar como su departamento de farmacovigilancia, incluyendo: alta de la unidad de Farmacovigilancia ante CNFV (Área de la Comisión de Evidencia y Manejo de Riesgos adscrita a Cofepris que regula la farmacovigilancia), nombramiento de un responsable de farmacovigilancia.</li>
+                                            <li class="pb-3">Desarrollo y/o actualización de manual de procedimientos normalizados de operación (PNOs).</li>
+                                            <li class="pb-3">Operación de la unidad de farmacovigilancia incluyendo recepción, investigación, mantenimiento de base de datos y reporte de SRAM (Sospecha de reacciones adversas de medicamentos) a CNFV.</li>
+                                            <li class="pb-3">Programación calendarizada de actividades de farmacovigilancia por registro contratado, como elaboración de Reportes periódicos de evaluación beneficio riesgo (RPEBR), fichas técnicas e informes de farmacovigilancia para cumplir los tiempos establecidos en la regulación.</li>
+                                            <li class="pb-3">Capacitación para su personal en recepción e identificación de SRAM.</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -247,15 +249,14 @@
                                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion" style="">
                                     <div class="card-body">
                                         <ul class="plus-list pt-5">
-                                            <li class="pb-3">Generación de Planes de manejo de riesgos (PMRs) con o sin programa de farmacovigilancia</li>
+                                            <li class="pb-3">Generación de Planes de gestión de riesgos (PGR) con o sin plan de farmacovigilancia</li>
                                             <li class="pb-3">Generación o actualización del manual de PNOs</li>
-                                            <li class="pb-3">RPS</li>
-                                            <li class="pb-3">Reportes de seguridad en México</li>
+                                            <li class="pb-3">Reporte Periódico de Evaluación Beneficio-Riesgo (RPEBR) (antes reporte de periodico de seguridad o RPS)</li>
                                             <li class="pb-3">Fichas técnicas</li>
                                             <li class="pb-3">Informes de farmacovigilancia para renovaciones de registro</li>
                                             <li class="pb-3">Revisión bibliográfica local e internacional</li>
                                             <li class="pb-3">Desarrollo y operación de programas de farmacovigilancia activa o intensiva</li>
-                                            <li class="pb-3">Operación e implementación de PMR</li>
+                                            <li class="pb-3">Operación e implementación de PGR</li>
                                             <li class="pb-3">Farmacovigilancia en estudios clínicos</li>
                                              <li class="pb-3">Clasificación, manejo, investigación y reporte de notificaciones, sometimiento a Cofpris y seguimiento</li>
                                         </ul>
@@ -318,7 +319,7 @@
                                 <div id="collapseOne2" class="collapse  show" aria-labelledby="headingOne2" data-parent="#accordion2" style="">
                                     <div class="card-body">
                                         <ul class="plus-list pt-5">
-                                            <li class="pb-3">Podemos actuar como su departamento tecnovigilancia, incluyendo: alta de la unidad de tecnovigilancia en CEMAR (Area de Cofepris que regula la farmacovigilancia y tecnovigilancia), nombramiento de un responsable de tecnovigilancia.</li>
+                                            <li class="pb-3">Podemos actuar como su departamento tecnovigilancia, incluyendo: alta de la unidad de tecnovigilancia ante CNFV (Area de la Comisión de Evidencia y Manejo de Riesgos adscrita a Cofepris que regula la farmacovigilancia y tecnovigilancia), nombramiento de un responsable de tecnovigilancia.</li>
                                             <li class="pb-3">Desarrollo y/o actualización de manual de procedimientos normalizados de operación (PNOs)</li>
                                             <li class="pb-3">Operación de la unidad de tecnovigilancia incluyendo recepción, investigación, generación y mantenimiento de base de datos y reporte de sospechas de notificaciones adversas a CEMAR</li>
                                             <li class="pb-3">Programación calendarizada de actividades de tecnovigilancia por registro contratado, como informes de tecnovigilancia para tenerlas a tiempo para sus renovaciones de registros.</li>
@@ -348,7 +349,7 @@
                                 <a href="#callcenter">
                                     <div class="card-header">
                                         <h5 class="mb-0">
-                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#" aria-expanded="true" aria-controls="collapseTwo2">Call center</button>
+                                        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#" aria-expanded="true" aria-controls="collapseTwo2">Call center (Ver Más)</button>
                                         </h5>
                                     </div>
                                 </a>
@@ -382,39 +383,21 @@
                     </p>
                     <ul class="plus-list pt-5">
                         <li class="pb-3">Call center y asignación de un 01800 exclusivo para su empresa</li>
-                        <li class="pb-3">Agentes exclusivos y capacitados en las necesidades de su empresa</li>
+                        <li class="pb-3">Agentes exclusivos y capacitados de acuerdo a las necesidades de su empresa</li>
                         <li class="pb-3">Grabación del 100% de las llamadas</li>
-                        <li class="pb-3">Identificación de llamadas en espera, perdidas, de entrada y salida, con lo que se pueden realizar estadísticas y KPIs de servicio.</li>
-                        <li class="pb-3">Desarrollo de scripts, plantillas y manuales de llamada, en donde se puede controlar exactamente lo que dice el agente, capturar información específica y escalar la llamada en casos definidos.</li>
-                        <li class="pb-3">Generación y respaldo de bases de datos con tecnología de punta</li>
-                    </ul>                                        
+                    </ul>
                     </p>
                 </div>
                 <div class="col-lg-12 col-md-12 col-sm-12 col-12">
-                <p>
-                                        Los servicios que se pueden proporcionar, además de la recepción de notificaciones de sospechas de reacciones adversas son: 
-                                        </p>
-                                        <ul class="plus-list pt-5">
-                                            <li class="pb-3">Centro de atención a clientes</li>
-                                            <li class="pb-3">Recepción y manejo de quejas de calidad</li>
-                                            <li class="pb-3">Información sobre productos a pacientes o profesionales de la salud</li>
-                                            <li class="pb-3">Campañas telefónicas, confirmación de asistencia a eventos, mailings, etc.</li>
-                                        </ul>
-                                        <p>
-                                        Tenemos personal capacitado, especializado y relacionado con ciencias de la salud para la atención del call center. Ofrecemos un alto nivel de atención al paciente que proporciona la información. Contamos con alta tecnología para el manejo de llamadas y sistema de reportes:
-                                        </p>
-                                        <ul class="plus-list pt-5">
-                                            <li class="pb-3">Estaciones 100% equipadas</li>
-                                            <li class="pb-3">Troncales digitales/ voz IP</li>
-                                            <li class="pb-3">Redundancia de carriers e internet</li>
-                                            <li class="pb-3">Plataforma especializada en call center</li>
-                                            <li class="pb-3">Grabación del 100% de las llamadas</li>
-                                            <li class="pb-3">Marcador progresivo y predictivo</li>
-                                            <li class="pb-3">WFM/ MIS</li>
-                                            <li class="pb-3">Data mining/ clusters/ CRM</li>
-                                            <li class="pb-3">Indicador de rendimiento clave</li>
-                                            <li class="pb-3">Sistema integral de registros</li>
-                                        </ul>
+                    <p>
+                        Los servicios que se pueden proporcionar, además de la recepción de notificaciones de sospechas de reacciones adversas son: 
+                    </p>
+                    <ul class="plus-list pt-5">
+                        <li class="pb-3">Centro de atención a clientes</li>
+                        <li class="pb-3">Recepción y manejo de quejas de calidad</li>
+                        <li class="pb-3">Información sobre productos a pacientes o profesionales de la salud</li>
+                        <li class="pb-3">Campañas telefónicas, confirmación de asistencia a eventos, mailings, etc.</li>
+                    </ul>
                 </div>
             </div>
         </div>
