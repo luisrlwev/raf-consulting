@@ -80,6 +80,7 @@
                             <div class="nav nav-tabs" id="nav-tab" role="tablist">
                                 <a class="nav-item nav-link active" id="nav-mission-tab" data-toggle="tab" href="#nav-mission" role="tab" aria-controls="nav-mission" aria-selected="true">Acerca de</a>
                                 <a class="nav-item nav-link" id="nav-vision-tab" data-toggle="tab" href="#nav-vision" role="tab" aria-controls="nav-vision" aria-selected="false">Experiencia</a>
+                                <a class="nav-item nav-link" id="nav-pos-tab" data-toggle="tab" href="#nav-pos" role="tab" aria-controls="nav-pos" aria-selected="false">Posicionamiento Institucional</a>
                             </div>
                         </nav>
                         <div class="tab-content" id="nav-tabContent">
@@ -108,6 +109,28 @@
                                         Nos especializamos en asuntos regulatorios de medicamentos y dispositivos médicos de fabricación extranjera. Colaboramos con empresas de casi todos los continentes: Europa, América y Asia.
                                         <br><br>
                                         Podemos ayudarles con un único proyecto o ser su departamento de Asuntos regulatorios y resolver todo por ustedes.
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="tab-pane fade" id="nav-pos" role="tabpanel" aria-labelledby="nav-pos-tab">
+                                <div class="about-tab-box">
+                                    <p>
+                                        Comprometidos con la ética, la objetividad y la confianza técnica, nuestra firma no participa en la comercialización de productos regulados.
+                                        <br><br>
+                                        En nuestra consultoría regulatoria, creemos firmemente que la independencia técnica es un pilar fundamental para brindar servicios de alto nivel. Por ello, hemos decidido no involucrarnos en la importación, representación o comercialización de medicamentos, dispositivos médicos, suplementos alimenticios, cosméticos ni ningún otro insumo para la salud.
+                                        <br><br>
+                                        Este principio responde a una convicción profunda: no puede haber asesoría objetiva si existen intereses comerciales en juego. Nuestra misión es ofrecer a cada cliente una ruta regulatoria clara, estratégica y técnicamente sólida, basada en su perfil, su producto y sus objetivos, y no en intereses propios de venta o distribución.
+                                        <br><br>
+                                        Estamos convencidos de que mantenernos al margen de la comercialización:
+                                        <br>
+                                        <ul>
+                                            <li>Fortalece la confianza de nuestros clientes, quienes saben que reciben una recomendación imparcial y personalizada.</li>
+                                            <li>Evita conflictos de interés, permitiéndonos representar con integridad a quienes confían en nosotros.</li>
+                                            <li>Nos posiciona como un aliado técnico y estratégico, y no como un competidor.</li>
+                                            <li>Es coherente con las mejores prácticas internacionales en consultoría regulatoria.</li>
+                                        </ul>
+                                        <br>
+                                        Nuestro compromiso es con la ciencia regulatoria, la legalidad, la ética y el éxito de nuestros clientes, no con la venta de productos.
                                     </p>
                                 </div>
                             </div>
