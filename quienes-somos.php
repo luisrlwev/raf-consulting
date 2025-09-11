@@ -269,23 +269,18 @@
                 <div class="single-brand">
                     <img src="img/about/brand-1.png" alt="">
                 </div>
-            
                 <div class="single-brand">
                     <img src="img/about/brand-2.png" alt="">
                 </div>
-            
                 <div class="single-brand">
                     <img src="img/about/brand-3.png" alt="">
                 </div>
-            
                 <div class="single-brand">
                     <img src="img/about/brand-4.png" alt="">
                 </div>
-            
                 <div class="single-brand">
                     <img src="img/about/brand-5.png" alt="">
                 </div>
-            
                 <div class="single-brand">
                     <img src="img/about/brand-6.png" alt="">
                 </div>
@@ -471,6 +466,37 @@
         </div>
     </div>
     <!-- our-costumers-end -->
+    <!-- asociaciones-start -->
+    <div class="shortcode-title">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 col-md-10 offset-md-1 col-sm-12 col-12">
+                    <div class="section-title mb-2">
+                        <h2 class="mb-2">Asociaciones y Reconocimientos</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="brands-area">
+        <div class="container">
+            <div class="asociaciones-carousel owl-carousel">
+                <div>
+                    <img src="img/about/camexa-2025-SELLO-ESP-cuadrado.jpg" alt="">
+                </div>
+                <div>
+                    <img src="img/about/XXVI-CNRSI-25bis-cuadrado.jpg" alt="">
+                </div>
+                <div>
+                    <img src="img/about/RAF-Consulting-Award-Logo-cuadrado.jpg" alt="">
+                </div>
+                <div>
+                    <img src="img/about/camara-comercio.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- asociaciones-end -->
     <!-- contact-details-area-start -->
     <!-- <div class="contact-details-area">
         <div class="container">

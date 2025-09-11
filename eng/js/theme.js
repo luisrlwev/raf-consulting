@@ -626,6 +626,43 @@ $(".btn-movil-menu").click( function(){
     }
     brand_carousel();
 
+    /*---------------------
+    asociaciones-carousel
+    --------------------- */
+    function asociociones_carousel() {
+        var owl = $(".asociaciones-carousel");
+        owl.owlCarousel({
+            loop: true,
+            margin: 20,
+            responsiveClass: true,
+            navigation: true,
+            navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"],
+            nav: false,
+            items: 4,
+            smartSpeed: 2000,
+            dots: false,
+            autoplay: true,
+            autoplayTimeout: 1000,
+            center: false,
+            animateIn: 'fadeIn',
+            responsive: {
+                0: {
+                    items: 1
+                },
+                480: {
+                    items: 3
+                },
+                760: {
+                    items: 4
+                },
+                992: {
+                    items: 4
+                }
+            }
+        });
+    }
+    asociociones_carousel();
+
 
     /*---------------------
     // Ajax Contact Form
