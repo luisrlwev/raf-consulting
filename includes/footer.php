@@ -43,6 +43,9 @@
                                 <li class="linkredesocial"><a href="https://www.linkedin.com/company/rafconsulting/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
                             </ul>
                         </div>
+                        <div style="position: relative;">
+                            <a href="https://www.flagcounter.me/details/goP"><img src="https://www.flagcounter.me/goP/" alt="Flag Counter"></a>
+                        </div>
                     </div>
                 </div>
             </div>
